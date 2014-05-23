@@ -39,6 +39,7 @@
         android:layout_toLeftOf="@id/view01"
         android:layout_alignTop="@id/view01"
         android:background="@drawable/leaf" />
+    <!-- view05 is at the left of view01 -->
     <TextView
         android:id="@+id/view05"
         android:layout_width="wrap_content"
